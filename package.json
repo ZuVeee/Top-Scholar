@@ -1,0 +1,11 @@
+{
+  "name": "top-scholar",
+  "version": "1.0.0",
+  "description": "Marketing Agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "empuno",
+  "license": "MIT"
+}
