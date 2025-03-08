@@ -1,0 +1,20 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build and cache files
+dist/
+.cache/
+out/
+
+# Ignore Firebase-related files
+firebase-debug.log
+.firebaserc
+
+# Ignore environment files (if you store API keys)
+.env
+.env.local
+.env.*.local
+
+# Ignore OS/System files
+.DS_Store
+Thumbs.db
